@@ -9,10 +9,13 @@ class Section extends Component {
 				<div className="section__header">
 					<button className="section__button">
 						Button
-				</button>
-					<button className="section__button section__button--danger">
+					</button>
+					<button className="section__button section__button--state-danger">
 						Danger Button
-				</button>
+					</button>
+					<button className="section__button section__button--state-warning">
+						Warning Button
+					</button>
 				</div>
 				<div className="section__body">
 					<span>

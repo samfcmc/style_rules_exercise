@@ -13,6 +13,9 @@ class SectionMess extends Component {
 					<button className="danger">
 						Danger Button
 					</button>
+					<button className="warning">
+						Warning Button
+					</button>
 				</div>
 				<div className="body">
 					<span>
