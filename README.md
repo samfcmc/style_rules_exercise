@@ -28,7 +28,7 @@ Start the local server
 npm start
 ```
 
-The server will start and a browser window will open with the app up and running.
+The server will start. Just open your browser and type the URL that is being shown in your terminal.
 You can make changes to the source code and them will be immediately reflected in the browser.
 
 ## The exercise
